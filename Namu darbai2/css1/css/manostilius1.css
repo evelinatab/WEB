@@ -1,0 +1,12 @@
+h1, h2 {
+  font-family: monospace;
+  color: rgba(255, 46, 150, 1);
+}
+
+p{
+  font-family: Garamond, Times, serif;
+}
+
+p.antras{
+  color: grey;
+}
