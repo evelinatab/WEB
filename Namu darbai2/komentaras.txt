@@ -1,0 +1,7 @@
+css1. OK.
+css2. OK.
+css3. Nuoroda noriu, kad padarytum þodþiui Briarai ir sutvarkytom tos nuorodos stiliø taip, kad jis nebûtø ppabrauktas ir tamsios mëlynos spalvos. O bûtø toks kaip uþduoties paveiksliuke.
+css4. Nerealiai :) Padarei savaip, ðaunuolë. Tikëkimës, kad uþsakovas nudþiugs, negavæs tai ko reikia (ne pagal uþduotá) :)
+css5. Nereikëjo, kad calculatorius veiktø, t.y. veiktø mygtuko paspaudimai, mes kol kas darome tik stiliø. Idëja ið èia: https://codepen.io/lizl/pen/xZdKbm arba https://code.sololearn.com/WK4yOr39W3BW/#html ??
+css6. Pagalvok, kaip pataisyti Adresas ir adresas 2 laukus nes jie yra plaèiau nei virðutiniai ir apatiniai laukai. Dar praðau ádëti radio button ir checkbox elementus.
+css7. Uþduotá galima atlikti keliais bûdais. Vienas ið jø yra jau padarytas tavo HTML 11 uþduotyje. Tik pridëk stiliø, kad atrodytø kaip paveiksliukas uþduotyje. Jei padarysi, duosiu dar kelis raktirnius þodþius á kitus bûdus ðiai uþduoèiai iðspræsti.
