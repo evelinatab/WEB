@@ -1,0 +1,27 @@
+h1{
+  font-family: Helvetica;
+  padding-left: 10px;
+}
+
+div.juosta{
+  padding: 5px;
+}
+
+p{
+  font-family: Arial, Tahoma, sans-serif;
+  color: white;
+  font-size: 12pt;
+  margin: 0px;
+}
+
+div.header{
+  background-color: #EEEEEE;
+  padding: 5px;
+}
+
+div.container{
+    background-color: lightgrey;
+    width: 370px;
+    padding: 25px;
+    margin: 25px;
+}
