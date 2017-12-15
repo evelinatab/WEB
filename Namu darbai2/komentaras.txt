@@ -1,7 +1,13 @@
 css1. OK.
+
 css2. OK.
+
 css3. Nuoroda noriu, kad padarytum zodziui Briarai ir sutvarkytom tos nuorodos stiliu taip, kad jis nebutu pabrauktas ir tamsios melynos spalvos. O butu toks kaip uzduoties paveiksliuke.
+
 css4. Nerealiai :) Padarei savaip, saunuole. Tikekimes, kad uzsakovas nudziugs, negaves tai ko reikia (ne pagal uþduoti) :)
+
 css5. Nereikejo, kad calculatorius veiktu, t.y. veiktu mygtuko paspaudimai, mes kol kas darome tik stiliu. Ideja is cia: https://codepen.io/lizl/pen/xZdKbm arba https://code.sololearn.com/WK4yOr39W3BW/#html ??
+
 css6. Pagalvok, kaip pataisyti Adresas ir adresas 2 laukus nes jie yra placiau nei virsutiniai ir apatiniai laukai. Dar prasau ideti radio button ir checkbox elementus.
+
 css7. Uzduoti galima atlikti keliais budais. Vienas is ju yra jau padarytas tavo HTML 11 uzduotyje. Tik pridek stiliu, kad atrodytu kaip paveiksliukas uzduotyje. Jei padarysi, duosiu dar kelis raktinius zodzius i kitus budus siai uzduociai isspresti.

@@ -13,6 +13,16 @@ input[type=button]{
   color: green;
 }
 
+span{
+  background: #EBEBEB;
+  width: 500px;
+  height: 500px;
+  font-size: 18px;
+  margin: 1px;
+  box-shadow: 1px 1px grey;
+  color: green;
+}
+
 input[type=text]{
   position: relative;
   display: block;
