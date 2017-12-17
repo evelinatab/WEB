@@ -8,34 +8,40 @@
   font-size: 20px;
 }
 
-td{
-  padding: 5px;
-  width: 80px;
-  height: 80px;
-  text-align: left;
-  vertical-align: top;
+.container {
+    width: 980px;
 }
 
-#calendar {
-  width: 600 px;
-  height: 400 px;
+.box {
+    width: 120px;
+    height: 120px;
+    float: left;
 }
 
-.oranzine {
+.b1 {
+    background: #none;
+    display: inline-block;
+    margin: 0px;
+    border: 1px solid grey;
+    box-shadow: 1px 1px 2px grey;
+    padding: 8px;
+}
+
+.savaitg {
   background: orange;
+  display: inline-block;
+  margin: 0px;
+  border: 1px solid grey;
+  box-shadow: 1px 1px 2px grey;
+  padding: 8px;
 }
 
-a {
-  text-decoration: none;
-  color: white;
-  font-size: 10px;
-  background-color: green;
+.ivykis:hover {
+    background-color: yellow;
 }
 
-a:visited {
-    background-color: cyan;
-}
-
-a:hover {
-    background-color: lightgreen;
+.ivykis{
+  margin-top: 15px;
+  background: cyan;
+  font-size: 15px;
 }

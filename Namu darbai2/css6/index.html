@@ -4,6 +4,11 @@
     <meta charset="utf-8">
     <title></title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <style media="screen">
+      .ruzavas {
+        color: magenta;
+      }
+    </style>
   </head>
   <body>
     <form>
@@ -18,12 +23,12 @@
           <input type="password" class="form-control" id="inputPassword4" placeholder="Slaptažodis">
         </div>
 
-      <div class="form-group">
+      <div class="form-group col-md-6">
         <label for="inputAddress">Adresas</label>
         <input type="text" class="form-control" id="inputAddress" placeholder="Gatvė">
       </div>
 
-      <div class="form-group">
+      <div class="form-group col-md-6">
         <label for="inputAddress2">Adresas 2</label>
         <input type="text" class="form-control" id="inputAddress2" placeholder="Butas, namas, nr.">
       </div>
@@ -50,7 +55,34 @@
       </div>
 
       </div>
-      <button type="submit" class="btn btn-primary">Registruoti</button>
+
+        <div class="form-group col-md-6 ruzavas">
+          <label for="inputState">Ar tu tikrai nori pabaigti kursą?</label>
+          <div class="radio">
+          <label>
+            <input type="radio" name="survey" id="Radios1" value="Yes">
+            Labai
+          </label>
+        </div>
+
+        <div class="radio">
+          <label>
+            <input type="radio" name="survey" id="Radios2" value="No">
+            Ne
+          </label>
+        </div>
+
+        <div class="radio disabled">
+          <label>
+          <input type="radio" name="survey" id="Radios3" value="Notsure" disabled>
+          Nežinau
+          </label>
+        </div>
+
+        <div>
+          <button type="submit" class="btn btn-primary">Registruoti</button>
+        </div>
+      </div>
     </form>
   </body>
 </html>
