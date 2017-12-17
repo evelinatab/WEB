@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+
+
+
+
+
+
+
+
+    <script>
+
+      // assignVar();
+      // alert(pranesimas);
+      // function assignVar(){
+      //   var pranesimas = "Sveikas pasauli";
+      // }
+
+      function sudetis(){
+        var x = prompt('Ivesk pirma skaiciu', 0); // 5 tekstas
+        var y = prompt('Ivesk antra skaiciu', 0); // 4 tekstas
+
+        if(isNaN(x)){ // ar sitas x ne skaicius
+          alert(x + ' Sis nera skaicius');
+          return 'neapibreztas';
+        }
+
+        //idek y patikrinimui (tam antram skaiciui)
+
+        //kavos aparatas pavercia teskta i skaiciu (sudetis) Labai svarbu eiles tvarka kaip turi funkcionuoti
+        var xSkaicius = Number(x); // 5 skaicius paversti is x teskto i skaiciu
+        var ySkaicius = Number(y); // 4 skaicius paversti is y teskto i skaiciu
+        var suma = xSkaicius + ySkaicius; // skaiciuoja, sudeda skaicius 5+4
+        return suma; // galutine suma 10 (rezultate)
+      }
+
+      var suma = sudetis();
+
+      //mes nenori isspausdintu undefined (return);
+      if(suma != 'neapibreztas'){ //ar si suma nelygu neapibreztam "undefined"
+        alert(suma);
+      }
+
+
+    </script>
+  </body>
+</html>
